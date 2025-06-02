@@ -1,3 +1,17 @@
+# A simple project using React, Typescript, Express, and MySQL
+
+This was started with Create React App, who's README documentation is below. I am also using cursor's default model.
+
+## Todo
+
+- Add hot reloading to the API
+- Make DB
+- Import material UI or other component library
+- Tests
+- Linting
+- CI/CD Code Quality (linting, run tests, etc.)
+- Clean up README
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
