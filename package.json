@@ -11,7 +11,9 @@
     "@types/node": "^16.18.126",
     "@types/react": "^19.1.6",
     "@types/react-dom": "^19.1.5",
+    "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "mysql2": "^3.14.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
@@ -23,7 +25,8 @@
     "serve": "node server/index.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "setup-db": "node server/db.setup.js"
   },
   "eslintConfig": {
     "extends": [
