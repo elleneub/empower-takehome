@@ -1,6 +1,6 @@
 # A simple project using React, Typescript, Express, and MySQL
 
-This was started with Create React App, who's README documentation is below. I am also using cursor's default model.
+This was started with Create React App, who's README documentation is below. I am using Cursor's Auto model to help code this!
 
 ## Setup Instructions
 
@@ -93,13 +93,11 @@ npm start
 
 ## Todo
 
-- Add hot reloading to the API
-- Make DB
-- Import material UI or other component library
 - Tests
 - Linting
 - CI/CD Code Quality (linting, run tests, etc.)
 - Clean up README
+- Break the notes into two separate pages
 
 ## Assignment notes
 
@@ -110,18 +108,6 @@ Some implementation notes:
 - Create a page for canvassers to record names and free-form notes about people they've talked to
 - Create a page for canvassers to view all their canvassing notes
 - User login/authentication system is optional
-- Simple/ugly UI is acceptable
-- Implement a JSON API backend
-- Include documentation for running the code
-- Create a git repo with initial commit and include in submission
-- AI coding tools are allowed (mention in README if used)
-- Using AI tools means higher expectations for extra credit features
-- Preferred tech stack:
-  - Frontend: React with hooks
-  - Backend: Node
-  - Database: MySQL
-  - Languages: Mix of JavaScript and TypeScript
-- Alternative technologies are acceptable if needed
 
 ## Bonus Points
 
