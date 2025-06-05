@@ -103,12 +103,6 @@ npm start
 
 Your assignment is to make a minimal canvassing web app.
 
-Some implementation notes:
-
-- Create a page for canvassers to record names and free-form notes about people they've talked to
-- Create a page for canvassers to view all their canvassing notes
-- User login/authentication system is optional
-
 ## Bonus Points
 
 Some ideas for enhancements to make to your project if you finish early:
