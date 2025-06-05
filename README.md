@@ -1,6 +1,7 @@
-# A simple project using React, Typescript, Express, and MySQL
+# Canvassing Notes App
 
-This was started with Create React App, who's README documentation is below. I am using Cursor's Auto model to help code this!
+A minimal web app for managing canvassing notes with email validation, search, and a responsive UI. It uses React, Typescript, Express, and MySQL. I am using Cursor's Auto
+model to help code this!
 
 ## Setup Instructions
 
