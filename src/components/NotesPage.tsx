@@ -64,6 +64,18 @@ const NotesPage: React.FC = () => {
                       >
                         {new Date(note.created_at).toLocaleString()}
                       </Typography>
+                      {note.email && (
+                        <>
+                          <br />
+                          <Typography
+                            component="span"
+                            variant="body2"
+                            color="text.primary"
+                          >
+                            Email: {note.email}
+                          </Typography>
+                        </>
+                      )}
                       <br />
                       {note.notes}
                     </>
