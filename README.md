@@ -103,17 +103,21 @@ npm start
 
 Your assignment is to make a minimal canvassing web app.
 
+## Bonus Implemented
+
+- Add an email field, and add some validation on that email
+- Make the pages look nice
+- Make the pages look nice on mobile
+- Make it possible to search across canvassing notes
+
 ## Bonus Points
 
 Some ideas for enhancements to make to your project if you finish early:
 
 - Implement users and authentication
 - Allow editing the canvassing notes
-- Add an email field, and add some validation on that email
-- Make it possible to search across canvassing notes
 - Make it possible to export the canvassing results as CSV
-- Make the pages look nice
-- Make the pages look nice on mobile
+
 - Actually deploy it on a server somewhere
 
 # Getting Started with Create React App
