@@ -97,31 +97,24 @@ npm start
 - Tests
 - Linting
 - CI/CD Code Quality (linting, run tests, etc.)
-- Clean up README
-- Break the notes into two separate pages
 
-## Assignment notes
-
-Your assignment is to make a minimal canvassing web app.
-
-## Bonus Implemented
+## Bonus Features Implemented
 
 - Add an email field, and add some validation on that email
 - Make the pages look nice
 - Make the pages look nice on mobile
 - Make it possible to search across canvassing notes
 
-## Bonus Points
+## Bonus Points Not Yet Implemented
 
 Some ideas for enhancements to make to your project if you finish early:
 
 - Implement users and authentication
 - Allow editing the canvassing notes
 - Make it possible to export the canvassing results as CSV
-
 - Actually deploy it on a server somewhere
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
